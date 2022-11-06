@@ -1,0 +1,28 @@
+- profile:
+  initials: MW
+  name: Matthew Wojtowicz
+  profession: Software Engineer
+  image: images/profile.png
+  location: Washington DC, USA
+  relocation: false
+  company: Katyella LLC
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    Software Engineer with over 10 years experience in full stack development. This includes server side Java/Spring and client side with JavaScript
+
+    I have worked in various aspects of the development cycle, giving me a well rounded full stack background. I can write full fledged backends in Spring Frameworks. As well as create frontends on top of that. Also creating terraform configs for deployments is in my wheel house.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Java
+  tools:
+    - AWS
+    - Spring
+    - Node
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

@@ -1,0 +1,27 @@
+- name: Afflytics
+  url: https://afflytics.katyella.com/demo
+  description: |
+    Founded in 2018, Afflytics was a provider of affiliate program management for digital media publishers.
+
+    Publishers could use their unified dashboard to check affiliate program earnings. This saved the publisher countless hours each day not having to log in to each individual program’s dashboard.
+
+    Afflytics has been featured by top brands in the space such as Flippa, Niche Pursuits, WP Mayor, and more.
+  
+  status: sold
+  tags:
+    - JavaScript
+    - Grails
+    - AWS
+  icon: website
+  image: images/afflytics.png
+
+- name: Workcited
+  url: https://workcited.me
+  description: Dynamic personal webpage generator from your linkedin profile
+  status: in progress
+  tags:
+    - JavaScript
+    - HTML
+    - Gatsby
+  icon: website
+  image: images/workcited2.png
